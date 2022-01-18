@@ -23,8 +23,11 @@
 # 🏀 Project Overview #
 As there are a limited number of basketball courts, players will need to either share the courts or join a pickup game. However, there are currently no reliable avenues to facilitate this. As a result, it is a common sight to see players heading down to multiple basketball courts to check the availability of games and courts. Our project, Next, aims to organise this fragmented network of basketball games in Singapore to help users better visualise the availability of courts/games and reduce wasted time.
 
-Do check out our site here! [Project Site](https://wad2-d251f.web.app/)
-Don't forget the recorded video walkthrough too! [Project Walkthrough](https://youtu.be/Ii1-ESWN8tg)
+* Do check out our site here! [Project Site](https://wad2-d251f.web.app/)
+* Don't forget the recorded video walkthrough too! [Project Walkthrough](https://youtu.be/Ii1-ESWN8tg)
+
+
+## Solution Architecture
 
 ![Architecture Diagram](./READMEassets/solutionarchitecture.png)
 
