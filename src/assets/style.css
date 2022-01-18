@@ -1,0 +1,59 @@
+/* unable to show wallpaper */
+body {
+    background-image: url("wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header-bg {
+    background-color: #30205B;
+}
+
+.footer-bg {
+    background-color: #30205B;
+    position: relative;
+    bottom: 0;
+    margin-top: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 154px);
+}
+
+.primary-gold-title {
+    color: #FEB842;
+    font-size: 36px;
+    font-weight: bold;
+    /* margin-left: 5px;
+    margin-bottom: 5px; */
+    text-shadow: 2px 1px black;
+}
+
+.secondary-gold-title {
+    color: #FEb842;
+    font-size: 24px;
+    font-weight: bold;
+    /* margin-left: 5px;
+    margin-bottom: 5px; */
+    text-shadow: 2px 1px black;
+}
+
+.secondary-white-title {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    /* margin-left: 5px;
+    margin-bottom: 5px; */
+    text-shadow: 2px 1px black;
+}
+
+.profile-image img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: 2px solid #FEb842 ;
+    box-shadow: 1px 2px;
+}
